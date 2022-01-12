@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Antonio.N
-- 👀 I’m interested in Software Engineering
+- 👋 Hi, I’m @Antonio.N.
+- 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning everything 😂.
 
 <!---
